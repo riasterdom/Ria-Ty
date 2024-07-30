@@ -14,7 +14,7 @@
 👨🏻‍💻 **About Me**<img src="cover.jpg" min-width="150px" max-width="150px" width="150px" align="right"> <br>
 ✨ I am a data scientist passionate about all things data. I like to derive meaningful insights from data that can help solve problems. <br>
 ✨ I am an avid learner who loves to find new and improved ways to things. <br>
-✨ I am a Google certified Data Analyst specialized in Python, SQL and R.
+✨ I am a Google certified Data Analyst specialized in Python, SQL and R. <br>
 ✨ I am certified by Stanford in Machine Learning. <br>
 ✨ Author of two books and one anthology <br>
 <!---⚡ Check my ✨ [Find my books](www.wattpad.com/riasterdom) or 🌱 [eBook](https://www.wattpad.com/story/235128487-not-some-princess-%E2%9C%93)<br> -->
