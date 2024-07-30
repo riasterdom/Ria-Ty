@@ -13,9 +13,9 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="cover.jpg" min-width="100px" max-width="100px" width="100px" align="right"> <br>
 ✨ I am a data scientist passionate about all things data. I like to derive meaningful insights from data that can help solve problems. <br>
-✨ I am an avid learner who loves to find new and improved ways to things.
+✨ I am an avid learner who loves to find new and improved ways to things. <br>
 ✨ I am a Google certified Data Analyst specialized in Python, SQL and R.
-✨ I am certified by Stanford in Machine Learning.
+✨ I am certified by Stanford in Machine Learning. <br>
 ✨ Author of two books and one anthology <br>
 <!---⚡ Check my ✨ [Find my books](www.wattpad.com/riasterdom) or 🌱 [eBook](https://www.wattpad.com/story/235128487-not-some-princess-%E2%9C%93)<br> -->
 📫 How to reach me: [Drop a message at](ria.tyagi@outlook.com) or visit  [LinkedIn](https://www.linkedin.com/in/riatyagi1/)<br>
