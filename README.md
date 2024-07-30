@@ -11,7 +11,7 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="cover.jpg" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="cover.jpg" min-width="100px" max-width="100px" width="100px" align="right"> <br>
 ✨ I am a data scientist passionate about all things data. I like to derive meaningful insights from data that can help solve problems. <br>
 ✨ I am an avid learner who loves to find new and improved ways to things.
 ✨ I am a Google certified Data Analyst specialized in Python, SQL and R.
