@@ -3,15 +3,19 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <!--<a href=" ">Portfolio</a> - -->
-  <a href="https://www.linkedin.com/in/riatyagi1/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/riatyagi1/">LinkedIn</a> -
   <!-- <a href=" ">Twitter</a> - -->
 <!--   <a href=" ">Website</a> - -->
   <!-- <a href=" ">Google Featured</a> - -->
-<!--   <a href=" ">Contact me</a> - -->
+  <a href="ria.tyagi@outlook.com">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ I am a data scientist passionate about all things data. I like to derive meaningful insights from data that can help solve problems.
+✨ I am an avid learner who loves to find new and improved ways to things.
+✨ I am a Google certified Data Analyst specialized in Python, SQL and R.
+✨ I am certified by Stanford in Machine Learning.
 ✨ Author of two books and one anthology <br>
 <!---⚡ Check my ✨ [Find my books](www.wattpad.com/riasterdom) or 🌱 [eBook](https://www.wattpad.com/story/235128487-not-some-princess-%E2%9C%93)<br> -->
 📫 How to reach me: [Drop a message at](ria.tyagi@outlook.com) or visit  [LinkedIn](https://www.linkedin.com/in/riatyagi1/)<br>
